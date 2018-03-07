@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author katya
+ *
+ */
+package differentexceptions;
